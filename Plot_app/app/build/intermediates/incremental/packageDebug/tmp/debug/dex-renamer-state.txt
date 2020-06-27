@@ -1,0 +1,7 @@
+#Fri Jun 26 23:28:17 MST 2020
+base.1=C\:\\Users\\Emmanuel\\Documents\\GitHub\\data-analisis\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\Emmanuel\\Documents\\GitHub\\data-analisis\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

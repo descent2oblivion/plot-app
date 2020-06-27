@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73561d29-b1e2-4d87-944f-1bb4da77d16b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/plot_app/grafica.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/plot_app/grafica.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RST9K19418905311" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dhhHtTAfeo97xKti8W8xJxYQB5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\libs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73561d29-b1e2-4d87-944f-1bb4da77d16b" name="Default Changelist" comment="" />
+      <created>1592883164253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592883164253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="271" y="0" key="#Plugins" timestamp="1593234308230">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="271" y="0" key="#Plugins/0.0.1218.720@0.0.1218.720" timestamp="1593234308230" />
+    <state x="336" y="101" key="FileChooserDialogImpl" timestamp="1593240011035">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="336" y="101" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1593240011035" />
+    <state width="1175" height="134" key="GridCell.Tab.0.bottom" timestamp="1592885201112">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1592885201112" />
+    <state width="1175" height="134" key="GridCell.Tab.0.center" timestamp="1592885201112">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1592885201112" />
+    <state width="1175" height="134" key="GridCell.Tab.0.left" timestamp="1592885201112">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1592885201112" />
+    <state width="1175" height="134" key="GridCell.Tab.0.right" timestamp="1592885201112">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="134" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1592885201112" />
+    <state x="110" y="0" key="SettingsEditor" timestamp="1593240041120">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="110" y="0" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1593240041120" />
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1593240693607">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1218.720@0.0.1218.720" timestamp="1593240693607" />
+  </component>
+</project>
