@@ -1,48 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:tools="http://schemas.android.com/tools"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        android:orientation="vertical"
-        android:layout_width="match_parent"
+<ScrollView
         android:layout_height="match_parent"
-        tools:context=".MainActivity">
-
-    <TextView
-            android:layout_gravity="center_horizontal"
-            android:text="Graph maker"
-            android:textSize="45dp"
-            android:layout_margin="10dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
-
-    <EditText
-            android:id="@+id/txt_cata"
-            android:layout_margin="10dp"
-            android:inputType="number"
-            android:hint="Category A"
+        android:layout_width="match_parent"
+        android:scrollbars="vertical "
+        xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="match_parent"
+            >
 
-    <EditText
-            android:inputType="number"
-            android:id="@+id/txt_catb"
-            android:layout_margin="10dp"
-            android:hint="Category B"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+        <TextView
+                android:layout_gravity="center_horizontal"
+                android:text="Graph maker"
+                android:textSize="45dp"
+                android:layout_margin="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
 
-    <Button
-            android:text="Display Graph"
-            android:onClick="disp"
-            android:layout_margin="10dp"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+        <EditText
+                android:id="@+id/txt_cata"
+                android:layout_margin="10dp"
+                android:inputType="number"
+                android:hint="Category A"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
 
-    <WebView
-            android:layout_margin="10dp"
-            android:id="@+id/wevi"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+        <EditText
+                android:inputType="number"
+                android:id="@+id/txt_catb"
+                android:layout_margin="10dp"
+                android:hint="Category B"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
 
-</LinearLayout>
+        <Button
+                android:text="Display Graph"
+                android:onClick="disp"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        <WebView
+                android:layout_margin="10dp"
+                android:id="@+id/wevi"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"/>
+
+        <TextView
+                android:id="@+id/tv"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+
+    </LinearLayout>
+</ScrollView>

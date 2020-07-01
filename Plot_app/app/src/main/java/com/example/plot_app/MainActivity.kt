@@ -3,7 +3,10 @@ package com.example.plot_app
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.webkit.WebChromeClient
+import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
+
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,6 +20,15 @@ class MainActivity : AppCompatActivity() {
     fun disp(view : View){
         gr = grafica(txt_cata.getText().toString().toInt(), txt_catb.getText().toString().toInt())
 
+
+        wevi.getSettings().javaScriptEnabled = true
+
+        wevi.setWebChromeClient(WebChromeClient())
+
         wevi.loadData(gr.ht, "text/html", "UTF-8")
+
+        wevi.loadDataWithBaseURL(null, gr.ht, "text/html", "UTF-8", null)
+
+        tv.setText(gr.ht)
     }
 }
