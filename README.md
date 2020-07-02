@@ -1,15 +1,9 @@
-# plot-app
-Currently under development: Example of lets-plot-app from kotlin on Android
-
 # Description
 User inputs two numbers and the app displays a plot of them
 
-# Issues
-https://github.com/JetBrains/lets-plot-kotlin/issues/21
+# Screenshots
+* Data input
+<img src="https://user-images.githubusercontent.com/58195806/86318373-9b43b780-bbe6-11ea-835e-87f6656f3886.png"/>
 
-# Attempted fix:
-Download lets-plot-common-1.4.2.jar from https://bintray.com/beta/#/jetbrains/lets-plot-maven/lets-plot-jars/1.4.2?tab=overview and remove Kotlin from the archive. Archive is present in 'libs folder' renamed as 'lpc 1.4.2.jar' 
-
-# Result
-Error at \grafica.kt: (4, 18): Unresolved reference: datalore
-
+* Result
+<img src="https://user-images.githubusercontent.com/58195806/86318374-9bdc4e00-bbe6-11ea-87fc-55e8669e2523.png"/>
