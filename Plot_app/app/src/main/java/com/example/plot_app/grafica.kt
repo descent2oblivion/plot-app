@@ -1,6 +1,5 @@
 package com.example.plot_app
 
-
 import jetbrains.datalore.plot.PlotHtmlExport
 import jetbrains.letsPlot.Stat
 import jetbrains.letsPlot.geom.geom_bar
