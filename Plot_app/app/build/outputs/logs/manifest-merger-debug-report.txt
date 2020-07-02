@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\92d78c2caf7903e278a9c6a783fb7c2c\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\a6dcb9e2f6b2bee80f78ab82617c469a\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\3d97b2d7eaebc4bf3a6e218666b7b82b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -26,25 +26,31 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Emmanuel\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\de2d302204eb20a2f77a7e2907bd7f34\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\097f27cb5ff54e19231eb34188607231\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\f72be3145af69b3d6950fa0e02cdfb2a\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:3:11-41
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:3:58-88
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:1-21:12
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:7:5-23:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\3d97b2d7eaebc4bf3a6e218666b7b82b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\3d97b2d7eaebc4bf3a6e218666b7b82b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.3.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\10049dc63de881d1a7217b4ad4d93cce\core-1.3.0\AndroidManifest.xml:24:5-89
@@ -54,35 +60,39 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Em
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\10049dc63de881d1a7217b4ad4d93cce\core-1.3.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:10:13-39
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:12:13-40
 	android:label
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:8:13-45
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:10:13-45
 	android:roundIcon
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:9:13-58
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:11:13-58
 	android:icon
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:7:13-47
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:9:13-47
 	android:allowBackup
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:6:13-39
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:8:13-39
 	android:theme
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:11:13-44
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:13:13-44
 activity#com.example.plot_app.MainActivity
-ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:15:19-62
+	tools:ignore
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:16:19-59
 	android:name
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:14:17-68
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:18:17-68
 	android:name
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:16:17-76
+ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:20:17-76
 	android:name
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\92d78c2caf7903e278a9c6a783fb7c2c\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\92d78c2caf7903e278a9c6a783fb7c2c\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\a6dcb9e2f6b2bee80f78ab82617c469a\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
@@ -127,13 +137,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Emmanuel
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\097f27cb5ff54e19231eb34188607231\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\f72be3145af69b3d6950fa0e02cdfb2a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Emmanuel\.gradle\caches\transforms-2\files-2.1\f72be3145af69b3d6950fa0e02cdfb2a\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Emmanuel\Documents\GitHub\data-analisis\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Emmanuel\Documents\GitHub\plot-app\Plot_app\app\src\main\AndroidManifest.xml

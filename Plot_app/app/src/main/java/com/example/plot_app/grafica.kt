@@ -11,7 +11,7 @@ import jetbrains.letsPlot.lets_plot
 class grafica(countA : Int, countB : Int){
 
 
-    val datos = mapOf<String,Any>(
+    val datos = mutableMapOf<String,Any>(
         "Category" to listOf("Cat A", "Cat B"),
         "Counts" to listOf(countA, countB)
     )
@@ -24,11 +24,17 @@ class grafica(countA : Int, countB : Int){
         fill = "Category"
     }
 
-
-
     val graph : Plot = (z + layer)
+
+    var buffer = StringBuffer()
 
     var ht = PlotHtmlExport.buildHtmlFromRawSpecs(graph.toSpec())
 
-    //var ht = graph.toSpec().toString()
+    var buffer2str : String = ""
+
+    fun assemble(){
+        buffer.append("$ht")
+
+        buffer2str = buffer.toString()
+    }
 }

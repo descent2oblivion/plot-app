@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Emmanuel\\Documents\\GitHub\\data-analisis\\Plot_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "outputFile": "C:\\Users\\Emmanuel\\Documents\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Emmanuel\\.gradle\\caches\\transforms-2\\files-2.1\\10049dc63de881d1a7217b4ad4d93cce\\core-1.3.0\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",

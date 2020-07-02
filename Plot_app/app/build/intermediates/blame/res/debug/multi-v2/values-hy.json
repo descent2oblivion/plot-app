@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Emmanuel\\Documents\\GitHub\\data-analisis\\Plot_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
+            "outputFile": "C:\\Users\\Emmanuel\\Documents\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy\\values-hy.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Emmanuel\\.gradle\\caches\\transforms-2\\files-2.1\\92d78c2caf7903e278a9c6a783fb7c2c\\appcompat-1.1.0\\res\\values-hy\\values-hy.xml",
