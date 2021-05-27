@@ -1,11 +1,13 @@
 package com.example.plot_app
 
 import jetbrains.datalore.plot.PlotHtmlExport
+import jetbrains.datalore.plot.PlotHtmlHelper
 import jetbrains.letsPlot.Stat
-import jetbrains.letsPlot.geom.geom_bar
+import jetbrains.letsPlot.geom.geomBar
+
 import jetbrains.letsPlot.intern.Plot
 import jetbrains.letsPlot.intern.toSpec
-import jetbrains.letsPlot.lets_plot
+import jetbrains.letsPlot.letsPlot
 
 
 class grafica(countA : Int, countB : Int){
@@ -16,9 +18,9 @@ class grafica(countA : Int, countB : Int){
         "Counts" to listOf(countA, countB)
     )
 
-    var z = lets_plot(datos)
+    var z = letsPlot(datos)
 
-    val layer = geom_bar(stat = Stat.identity){
+    val layer = geomBar(stat = Stat.identity){
         x = "Category"
         y = "Counts"
         fill = "Category"
@@ -28,7 +30,13 @@ class grafica(countA : Int, countB : Int){
 
     var buffer = StringBuffer()
 
-    var ht = PlotHtmlExport.buildHtmlFromRawSpecs(graph.toSpec())
+    //The following sets scriptUrl = "https://cdnjs.cloudflare.com/ajax/libs/lets-plot/2.0.1/lets-plot.min.js"
+    var scriptUrl = PlotHtmlHelper.scriptUrl("2.0.1")
+
+    //This is the old CDN
+    //var scriptUrl = "https://dl.bintray.com/jetbrains/lets-plot/lets-plot-latest.min.js"
+
+    var ht = PlotHtmlExport.buildHtmlFromRawSpecs(graph.toSpec(), scriptUrl)
 
     var buffer2str : String = ""
 

@@ -1,7 +1,7 @@
-#Tue Aug 04 18:43:25 MST 2020
-base.1=C\:\\Users\\chave\\OneDrive\\Documentos\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+#Wed May 26 22:25:17 MST 2021
+base.1=C\:\\Users\\chave\\OneDrive\\Documentos\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
-base.0=C\:\\Users\\chave\\OneDrive\\Documentos\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+base.0=C\:\\Users\\chave\\OneDrive\\Documentos\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

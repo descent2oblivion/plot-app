@@ -1,1 +1,6 @@
-[]
+{
+  "version": 1,
+  "applicationId": "com.example.plot_app",
+  "variantType": "BASE_APK",
+  "elements": []
+}
