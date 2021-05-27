@@ -4,6 +4,7 @@ import jetbrains.datalore.plot.PlotHtmlExport
 import jetbrains.datalore.plot.PlotHtmlHelper
 import jetbrains.letsPlot.Stat
 import jetbrains.letsPlot.geom.geomBar
+import jetbrains.letsPlot.ggsize
 
 import jetbrains.letsPlot.intern.Plot
 import jetbrains.letsPlot.intern.toSpec
@@ -26,12 +27,12 @@ class grafica(countA : Int, countB : Int){
         fill = "Category"
     }
 
-    val graph : Plot = (z + layer)
+    val graph : Plot = (z + layer + ggsize(720, 540))
 
     var buffer = StringBuffer()
 
     //The following sets scriptUrl = "https://cdnjs.cloudflare.com/ajax/libs/lets-plot/2.0.1/lets-plot.min.js"
-    var scriptUrl = PlotHtmlHelper.scriptUrl("2.0.1")
+    var scriptUrl = PlotHtmlHelper.scriptUrl("2.0.2")
 
     //This is the old CDN
     //var scriptUrl = "https://dl.bintray.com/jetbrains/lets-plot/lets-plot-latest.min.js"

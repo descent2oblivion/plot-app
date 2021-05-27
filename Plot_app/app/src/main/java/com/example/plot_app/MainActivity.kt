@@ -3,6 +3,7 @@ package com.example.plot_app
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import androidx.core.text.htmlEncode
 import kotlinx.android.synthetic.main.activity_main.*
 
 
@@ -25,6 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         wevi.getSettings().builtInZoomControls = true
 
-        wevi.loadData(gr.buffer2str, "text/html", "UTF-8")
+
+
+        wevi.loadDataWithBaseURL(null, gr.buffer2str, "text/html", "UTF-8", null)
     }
 }
