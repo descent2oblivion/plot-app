@@ -1,4 +1,4 @@
-#Thu May 27 10:21:18 MST 2021
+#Thu May 27 22:10:15 MST 2021
 base.1=C\:\\Users\\chave\\OneDrive\\Documentos\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
 base.0=C\:\\Users\\chave\\OneDrive\\Documentos\\GitHub\\plot-app\\Plot_app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
